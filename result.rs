@@ -17,3 +17,8 @@ fn main() {
     println!("{}",_teste);
     //assert_eq!(retorno,Ok(5.));
 }
+
+// match retorno {
+//     Ok(v) => println!("Sucesso: {}", v),
+//     Err(e) => println!("Erro: {}", e),
+// }
